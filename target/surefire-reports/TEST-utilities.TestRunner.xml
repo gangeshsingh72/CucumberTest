@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="48" failures="0" name="utilities.TestRunner" time="4.553" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.8+10-LTS"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.8.jdk/Contents/Home/lib"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/gangeshsingh/Desktop/Gangesh/Java/IdeaProjects/CucumberProject"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="user.country" value="GB"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/gangeshsingh/Desktop/Gangesh/Java/IdeaProjects/CucumberProject"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.8+10-LTS"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/4t/ndh04fx92ksg16ppfgtzwmgc0000gn/T/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="classworlds.conf" value="/Users/gangeshsingh/Desktop/Gangesh/apache-maven-3.6.3/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/gangeshsingh/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="maven.conf" value="/Users/gangeshsingh/Desktop/Gangesh/apache-maven-3.6.3/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.15.6"/>
+    <property name="library.jansi.path" value="/Users/gangeshsingh/Desktop/Gangesh/apache-maven-3.6.3/lib/jansi-native"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/gangeshsingh"/>
+    <property name="user.timezone" value="Europe/London"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="gangeshsingh"/>
+    <property name="java.class.path" value="/Users/gangeshsingh/Desktop/Gangesh/apache-maven-3.6.3/boot/plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-11.0.8.jdk/Contents/Home"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.8"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/Users/gangeshsingh/Desktop/Gangesh/apache-maven-3.6.3"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.version.date" value="2020-07-14"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase classname="Scenario: Verifying Facebook logo" name="Given I am a Facebook user" time="0.003"/>
+  <testcase classname="Scenario: Verifying Facebook logo" name="When I access Facebook login page" time="0.001"/>
+  <testcase classname="Scenario: Verifying Facebook logo" name="Then I  see facebook logo" time="0.001"/>
+  <testcase classname="Scenario: Verifying Facebook logo" name="Scenario: Verifying Facebook logo" time="0.328"/>
+  <testcase classname="Scenario: Verifying Email or Phone label" name="Given I am a Facebook user" time="0"/>
+  <testcase classname="Scenario: Verifying Email or Phone label" name="When I access Facebook logo page" time="0"/>
+  <testcase classname="Scenario: Verifying Email or Phone label" name="Then I see Email or phone text on the above edit box" time="0"/>
+  <testcase classname="Scenario: Verifying Email or Phone label" name="Scenario: Verifying Email or Phone label" time="0.325"/>
+  <testcase classname="Scenario: Verify editbox" name="Given I am a Facebook user" time="0"/>
+  <testcase classname="Scenario: Verify editbox" name="When I access Facebook logo page" time="0.001"/>
+  <testcase classname="Scenario: Verify editbox" name="Then I see an edit box to enter email" time="0"/>
+  <testcase classname="Scenario: Verify editbox" name="Scenario: Verify editbox" time="0.356"/>
+  <testcase classname="Scenario: Verify Password edit box" name="Given I am a Facebook user" time="0"/>
+  <testcase classname="Scenario: Verify Password edit box" name="When I access Facebook logo page" time="0"/>
+  <testcase classname="Scenario: Verify Password edit box" name="Then I see the text Password on the page above edit box" time="0"/>
+  <testcase classname="Scenario: Verify Password edit box" name="Scenario: Verify Password edit box" time="0.454"/>
+  <testcase classname="Scenario: Verify Log-in button" name="Given I am a Facebook user" time="0"/>
+  <testcase classname="Scenario: Verify Log-in button" name="When I access Facebook logo page" time="0"/>
+  <testcase classname="Scenario: Verify Log-in button" name="Then I see Log In button next to email and password edit boxes" time="0"/>
+  <testcase classname="Scenario: Verify Log-in button" name="Scenario: Verify Log-in button" time="0.373"/>
+  <testcase classname="Scenario: Verify forgotten account" name="Given I am a Facebook user" time="0"/>
+  <testcase classname="Scenario: Verify forgotten account" name="When I access Facebook logo page" time="0"/>
+  <testcase classname="Scenario: Verify forgotten account" name="Then I see a link for Forgotten account" time="0"/>
+  <testcase classname="Scenario: Verify forgotten account" name="Scenario: Verify forgotten account" time="0.365"/>
+  <testcase classname="Scenario: Verifying Facebook logo" name="Given I am a Facebook user" time="0"/>
+  <testcase classname="Scenario: Verifying Facebook logo" name="When I access Facebook login page" time="0"/>
+  <testcase classname="Scenario: Verifying Facebook logo" name="Then I  see facebook logo" time="0"/>
+  <testcase classname="Scenario: Verifying Facebook logo" name="Scenario: Verifying Facebook logo" time="0.395"/>
+  <testcase classname="Scenario: Verifying Email or Phone label" name="Given I am a Facebook user" time="0"/>
+  <testcase classname="Scenario: Verifying Email or Phone label" name="When I access Facebook logo page" time="0"/>
+  <testcase classname="Scenario: Verifying Email or Phone label" name="Then I see Email or phone text on the above edit box" time="0"/>
+  <testcase classname="Scenario: Verifying Email or Phone label" name="Scenario: Verifying Email or Phone label" time="0.475"/>
+  <testcase classname="Scenario: Verify editbox" name="Given I am a Facebook user" time="0"/>
+  <testcase classname="Scenario: Verify editbox" name="When I access Facebook logo page" time="0"/>
+  <testcase classname="Scenario: Verify editbox" name="Then I see an edit box to enter email" time="0"/>
+  <testcase classname="Scenario: Verify editbox" name="Scenario: Verify editbox" time="0.358"/>
+  <testcase classname="Scenario: Verify Password edit box" name="Given I am a Facebook user" time="0"/>
+  <testcase classname="Scenario: Verify Password edit box" name="When I access Facebook logo page" time="0"/>
+  <testcase classname="Scenario: Verify Password edit box" name="Then I see the text Password on the page above edit box" time="0"/>
+  <testcase classname="Scenario: Verify Password edit box" name="Scenario: Verify Password edit box" time="0.426"/>
+  <testcase classname="Scenario: Verify Log-in button" name="Given I am a Facebook user" time="0"/>
+  <testcase classname="Scenario: Verify Log-in button" name="When I access Facebook logo page" time="0"/>
+  <testcase classname="Scenario: Verify Log-in button" name="Then I see Log In button next to email and password edit boxes" time="0"/>
+  <testcase classname="Scenario: Verify Log-in button" name="Scenario: Verify Log-in button" time="0.333"/>
+  <testcase classname="Scenario: Verify forgotten account" name="Given I am a Facebook user" time="0"/>
+  <testcase classname="Scenario: Verify forgotten account" name="When I access Facebook logo page" time="0"/>
+  <testcase classname="Scenario: Verify forgotten account" name="Then I see a link for Forgotten account" time="0"/>
+  <testcase classname="Scenario: Verify forgotten account" name="Scenario: Verify forgotten account" time="0.359"/>
+</testsuite>
